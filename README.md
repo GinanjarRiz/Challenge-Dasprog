@@ -5,4 +5,6 @@ Daftar Anggota Kelompok:
 1. Muhammad Galih Fauzan Sukmana 
    NIM: 4.33.20.0.19
 2. Rizki Adi Hidayat
-   NIM: 43.33.20.0.22
+   NIM: 4.33.20.0.22
+3. Ginanjar Riski Okta Afriansa
+   NIM: 4.33.20.0.12
